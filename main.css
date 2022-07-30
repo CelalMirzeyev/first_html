@@ -1,0 +1,145 @@
+header{
+    width: 1440px;
+height: 72px;
+left: 0px;
+top: 0px;
+
+background: #000000;
+}
+header nav a {
+    text-decoration: none;
+    width: 56px;
+    height: 21px;
+    left: 1196px;
+    top: 26px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    /* identical to box height */
+    display: flex;
+    align-items: center;
+    text-align: center;
+    
+    color: #F0F0F0;
+    padding-left:1300px;
+   
+  
+            
+    
+}
+
+main .page1 h1{
+    width: 311px;
+height: 42px;
+left: 565px;
+top: 139px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 42px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+padding-left: 520px;
+}
+main pre{
+    width: 415px;
+height: 165px;
+left: 513px;
+top: 205px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 230%;
+/* or 55px */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+padding-left: 480px;
+}
+main .page1 form .text4{
+    text-align: center;
+    margin-left: 70px;
+  
+}
+main .page1 form{
+    padding-left:550px ;
+}
+ 
+main .page1 form input[type=submit]{
+    width: 470px;
+height: 45px;
+left: 485px;
+top: 669px;
+
+
+background: #000000;
+color: #fff;
+}
+
+main .page1 form h6{
+    width: 143px;
+height: 16px;
+left: 649px;
+top: 726px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+line-height: 16px;
+display: flex;
+align-items: center;
+text-align: center;
+padding-left: 170px;
+
+
+color: #000000;
+}
+footer{
+width: 1440px;
+height: 100px;
+
+
+
+background: #343434;
+}
+footer h5{
+     width: 73px;
+height: 16px;
+left: 684px;
+top: 1276px; 
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 300;
+font-size: 13px; 
+ 
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #868686;
+padding-left:770px;
+
+
+}
+
+footer  .link2{
+    padding-left: 770px;
+}
+footer .social{
+    padding-left: 770px;
+}
+
